@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\FinTrust.AccountAPI.Domain\FinTrust.AccountAPI.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
