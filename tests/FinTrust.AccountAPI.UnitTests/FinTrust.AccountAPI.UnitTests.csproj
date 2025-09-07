@@ -19,8 +19,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\FinTrust.AccountAPI.Application\FinTrust.AccountAPI.Application.csproj" />
-    <ProjectReference Include="..\FinTrust.AccountAPI.Domain\FinTrust.AccountAPI.Domain.csproj" />
+    <ProjectReference Include="..\..\src\FinTrust.AccountAPI.Application\FinTrust.AccountAPI.Application.csproj" />
+    <ProjectReference Include="..\..\src\FinTrust.AccountAPI.Domain\FinTrust.AccountAPI.Domain.csproj" />
   </ItemGroup>
 
 </Project>
